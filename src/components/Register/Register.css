@@ -1,0 +1,8 @@
+.sec{
+    background: #eee;
+    height: 100vh;
+    border-radius: 10px;
+}
+.check{
+    transform: scale(1.3);
+}

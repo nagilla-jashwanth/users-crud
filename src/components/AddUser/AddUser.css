@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+.hii{
+    margin: 40px;
+    font-family: 'Merriweather', serif; 
+    width: 35%;
+    margin-left: 50%;
+    background-color: #eee;
+    padding: 20px;
+}
+.add{
+    margin: -50px;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-vector/account-concept-illustration_114360-409.jpg?size=626&ext=jpg&ga=GA1.2.679849705.1687448924&semt=ais");
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin: 20px;
+    
+}
+@media all and (max-width: 1200px)
+ {
+    .add{
+   background-image: none;
+   margin-right: 40%;
+   
+    }
+    .hii{
+    
+    font-family: 'Merriweather', serif; 
+    width: 90%;
+    
+    
+    }
+ }
+

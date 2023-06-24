@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "username": "nagilla_jashwanth",
+      "name": "nagilla jashwanth reddy",
+      "email": "nagilla.jashwanth01@gmail.com",
+      "dob": "2004-12-13",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI8DK8HCuvWNyHHg8enmbmmf1ue4AeeF3GDw&usqp=CAU",
+      "id": 1
+    },
+    {
+      "username": "suresh_k",
+      "name": "K Suresh Yadav",
+      "email": "sureshyadav@gmail.com",
+      "dob": "2000-09-17",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDzNe7gCHwrxEK_VJiVvL4_ndMvdl7LYrAtjwo6YmNU6-p8InJ4WS3-lvcS8IoNPJjEI&usqp=CAU",
+      "id": 3
+    },
+    {
+      "username": "m_abhinay",
+      "name": "M Abhinay",
+      "email": "abhinaymusham@gmail.com",
+      "dob": "2003-02-16",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNkJpg5tIB3DZsMqxgGCyRtSwDuav9LEdbZI06evMasI6tmkPahgI1ftvuA7qbHSsbgg&usqp=CAU",
+      "id": 6
+    },
+    {
+      "username": "ashok_1",
+      "name": "A Ashok",
+      "email": "aashok@gmail.com",
+      "dob": "2000-07-14",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCczoMDFIc77qVeqtnJ26h8Yen0WXNfyLTIg&usqp=CAU",
+      "id": 7
+    },
+    {
+      "username": "samyuktha_menon",
+      "name": "Samyuktha Menon",
+      "email": "samyukthamenon@gmail.com",
+      "dob": "2000-11-01",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwgu1A5zgPSvfE83nurkuzNEoXs9DMNr8Ww&usqp=CAU",
+      "id": 9
+    },
+    {
+      "username": "samantha_prabhu",
+      "name": "A Samantha",
+      "email": "samantha323@gmail.com",
+      "dob": "2000-03-18",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPTM8vhoBrUox1hpmEVRPLBbLQZkrCRBMK2Yiwc6EyrSWrh3_ph5Up4S5jkdUgJbcVS0&usqp=CAU",
+      "id": 10
+    },
+    {
+      "username": "m_abhinay",
+      "name": "M Abhinay",
+      "email": "abhinaymusham@gmail.com",
+      "dob": "2003-02-16",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNkJpg5tIB3DZsMqxgGCyRtSwDuav9LEdbZI06evMasI6tmkPahgI1ftvuA7qbHSsbgg&usqp=CAU",
+      "id": 11
+    },
+    {
+      "username": "jashwanth_reddy",
+      "name": "nagilla jashwanth reddy",
+      "email": "nagilla.jashwanth01@gmail.com",
+      "dob": "2023-06-07",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNkJpg5tIB3DZsMqxgGCyRtSwDuav9LEdbZI06evMasI6tmkPahgI1ftvuA7qbHSsbgg&usqp=CAU",
+      "id": 13
+    },
+    {
+      "username": "jashwanthreddy",
+      "name": "nagilla jashwanth reddy",
+      "email": "nagilla.jashwanth01@gmail.com",
+      "dob": "2023-05-28",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNkJpg5tIB3DZsMqxgGCyRtSwDuav9LEdbZI06evMasI6tmkPahgI1ftvuA7qbHSsbgg&usqp=CAU",
+      "id": 14
+    },
+    {
+      "username": "abhinay",
+      "name": "M Abhinay",
+      "email": "abhinaymusham@gmail.com",
+      "dob": "2023-06-14",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNkJpg5tIB3DZsMqxgGCyRtSwDuav9LEdbZI06evMasI6tmkPahgI1ftvuA7qbHSsbgg&usqp=CAU",
+      "id": 15
+    },
+    {
+      "username": "nagilla_jashwanth",
+      "name": "nagilla jashwanth reddy",
+      "email": "21071A66A5@vnrvjiet.in",
+      "dob": "2023-06-13",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNkJpg5tIB3DZsMqxgGCyRtSwDuav9LEdbZI06evMasI6tmkPahgI1ftvuA7qbHSsbgg&usqp=CAU",
+      "id": 16
+    },
+    {
+      "username": "nagilla_jashwanth",
+      "name": "nagilla jashwanth reddy",
+      "email": "nagilla.jashwanth01@gmail.com",
+      "dob": "2023-06-05",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNkJpg5tIB3DZsMqxgGCyRtSwDuav9LEdbZI06evMasI6tmkPahgI1ftvuA7qbHSsbgg&usqp=CAU",
+      "id": 17
+    },
+    {
+      "username": "nagilla_jashwanth",
+      "name": "nagilla jashwanth reddy",
+      "email": "21071A66A5@vnrvjiet.in",
+      "dob": "2023-06-01",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNkJpg5tIB3DZsMqxgGCyRtSwDuav9LEdbZI06evMasI6tmkPahgI1ftvuA7qbHSsbgg&usqp=CAU",
+      "id": 18
+    },
+    {
+      "username": "ravi_teja",
+      "name": "ravi teja",
+      "email": "ravi123@gmail.com",
+      "dob": "2023-06-06",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7QPGzBefaOz5xC_y7q_Ncne7Kd8J8f85xw&usqp=CAU",
+      "id": 19
+    }
+  ]
+}

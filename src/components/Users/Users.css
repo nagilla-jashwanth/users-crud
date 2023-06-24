@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+.d1{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    justify-content: center;
+    
+}
+.d2{
+    margin: 30px;
+}
+.d{
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Merriweather', serif; 
+    font-size: 4rem;
+}
+.use{
+    margin: -30px;
+    background: #215f00;
+background: -webkit-linear-gradient(to right, #e4e4d9, #74806d);
+background: linear-gradient(to right, #e4e4d9, #c2a7a7);
+
+}
